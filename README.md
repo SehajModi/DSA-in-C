@@ -18,7 +18,7 @@ I'm an Instrumentation and Control Engineering student working on embedded syste
 | 4 | Reverse in place | Two pointers (both ends) | Nov 19 | Nov 22 |
 | 5 | Move zeroes | Read / write pointers | Nov 19 | Nov 22 |
 | 6 | Two-sum (sorted) | Two pointers | Nov 19 | Nov 26 |
-| 7 | Prefix sums | Running totals | | |
+| 7 | Prefix sums | Running totals | Nov 20 | Nov 22 |
 | 8 | Max subarray (Kadane) | Running best | | |
 | 9 | Moving-average filter on IMU data | Sliding window | | |
 
